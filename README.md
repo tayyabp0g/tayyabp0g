@@ -83,4 +83,4 @@
 
 ---
 
-<p align="center"><b>“Consistency builds mastery — keep shipping, keep building!” 🚀</b></p>
+<p align="center"><b>“Code. Learn. Repeat. That’s how legends are made.”</b> 👨‍💻</p>
