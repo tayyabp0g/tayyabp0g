@@ -60,16 +60,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyabp0g&show_icons=true&theme=radical&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabp0g&layout=compact&theme=radical&border_radius=10" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabp0g&theme=radical&fire=DD2727&currStreakLabel=DD2727" width="70%" />
-</p>
+<div align="center">
 
----
+| <img src="https://github-readme-stats.vercel.app/api?username=tayyabp0g&show_icons=true&theme=radical&border_radius=10" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabp0g&layout=compact&theme=radical&border_radius=10" width="340"/> |
+|:---:|:---:|
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabp0g&theme=radical&fire=DD2727&currStreakLabel=DD2727" width="750"/>
+
+</div>
+----
 ## 🤝 Connect With Me
 
 <p align="center">
