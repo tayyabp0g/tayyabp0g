@@ -32,7 +32,6 @@
 | 💼 **Landing Page** | Modern, responsive landing page with smooth UI/UX. | [View](https://landing-page-iota-tan-89.vercel.app/) |
 | 🏫 **School Management Software** | Full-stack admin dashboard for schools (PHP + MySQL). | [View](https://skool-management-software.vercel.app/) |
 
----
 
 ## 🛠️ Tech Stack
 
@@ -56,7 +55,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -70,7 +69,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabp0g&theme=radical&fire=DD2727&currStreakLabel=DD2727" width="750"/>
 
 </div>
-----
+
 ## 🤝 Connect With Me
 
 <p align="center">
