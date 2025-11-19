@@ -16,7 +16,7 @@
 - 🎓 **Passionate developer** building next-gen web apps, AI/ML solutions, and robust C++ systems.
 - 🧠 **AI/ML Focus:** Deepfake detection, neural networks, and computer vision.
 - 💡 **Stack:**  
-  - **Frontend:**HTML5, CSS, JavaScript, React Js
+  - **Frontend:** HTML5, CSS, JavaScript, React Js
   - **Backend:** PHP, MySQL  
   - **AI/ML:** Python, PyTorch, Pandas, Dlib  
   - **Other:** Git, GitHub, VS Code, Vercel
