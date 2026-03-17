@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                       HERO BANNER                          -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a0e1a,70:0d2137,100:36BCF7&height=280&section=header&text=Muhammad%20Tayyab&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20C%2B%2B%20Enthusiast&descSize=17&descColor=36BCF7&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
@@ -24,10 +20,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                       ABOUT ME                             -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
 ## 🧑‍💻 &nbsp;About Me
 
 <table width="100%">
@@ -35,24 +27,22 @@
 <td valign="top" width="52%">
 
 ```yaml
+name        : Muhammad Tayyab
+location    : Pakistan 🇵🇰
+role        : Full Stack Developer & AI Engineer
+education   : BS Computer Science (In Progress)
 
-
-Name        : Muhammad Tayyab
-Location    : Pakistan 🇵🇰
-Role        : Full Stack Developer & AI Engineer
-Education   : BS Computer Science (In Progress)
-
-Currently   :
+currently   :
   - Building full-stack web applications
   - Researching deepfake detection (PyTorch)
   - Sharpening C++ DSA & OOP skills
 
-Interests   :
+interests   :
   - Computer Vision & Neural Networks
   - Scalable Web Architecture
   - Open Source Contribution
 
-Ask_Me_About:
+ask_me_about:
   - React.js, PHP, MySQL
   - PyTorch, Computer Vision
   - C++ OOP & Data Structures
@@ -84,10 +74,6 @@ Ask_Me_About:
 <br/>
 
 ---
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                    FEATURED PROJECTS                       -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 ## 🚀 &nbsp;Featured Projects
 
@@ -144,10 +130,6 @@ Ask_Me_About:
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                      TECH STACK                            -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
@@ -186,10 +168,6 @@ Ask_Me_About:
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                     GITHUB STATS                           -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
@@ -211,24 +189,6 @@ Ask_Me_About:
 <br/>
 
 ---
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                      TROPHIES                              -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tayyabp0g&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</div>
-
-<br/>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                    CONNECT WITH ME                         -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 ## 🤝 &nbsp;Let's Connect & Collaborate
 
@@ -256,10 +216,6 @@ Ask_Me_About:
 <br/>
 
 ---
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                       FOOTER                               -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
