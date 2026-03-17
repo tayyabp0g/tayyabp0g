@@ -1,123 +1,274 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:36BCF7&height=200&section=header&text=Muhammad%20Tayyab&fontSize=48&fontColor=36BCF7&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20C%2B%2B%20Enthusiast&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                       HERO BANNER                          -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Next-Gen+Web+Applications+%F0%9F%9A%80;AI+%2F+ML+Engineer+%7C+Deepfake+Detection+%F0%9F%94%8E;C%2B%2B+%7C+OOP+%7C+DSA+Enthusiast+%F0%9F%92%BB;Open+to+Collaborate+%26+Learn+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a0e1a,70:0d2137,100:36BCF7&height=280&section=header&text=Muhammad%20Tayyab&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20C%2B%2B%20Enthusiast&descSize=17&descColor=36BCF7&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=tayyabp0g&label=Profile+Views&color=36BCF7&style=flat-square" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/tayyabp0g?label=Followers&style=flat-square&color=36BCF7" alt="Followers"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+Next-Gen+Web+Applications+%F0%9F%9A%80;Deepfake+Detection+Researcher+%F0%9F%94%8E;C%2B%2B+%7C+OOP+%7C+DSA+Enthusiast+%F0%9F%92%BB;Always+Learning+%E2%80%A2+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tayyabp0g&label=%F0%9F%91%81+Profile+Views&color=0d1117&style=flat-square&labelColor=36BCF7" />
+&ensp;
+<img src="https://img.shields.io/github/followers/tayyabp0g?label=%F0%9F%91%A5+Followers&style=flat-square&color=0d1117&labelColor=36BCF7" />
+&ensp;
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work%20%E2%9C%85-0d1117?style=flat-square&labelColor=36BCF7" />
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-> *Passionate developer from Pakistan 🇵🇰, turning ideas into powerful digital products.*
-
-- 🎓 Currently pursuing **BS Computer Science** — focused on AI/ML & Full Stack Development
-- 🔬 **Researching** deepfake detection using neural networks & computer vision
-- 🌐 **Web Stack:** React.js · PHP · MySQL · HTML5 · CSS3 · JavaScript
-- 🤖 **AI/ML Stack:** Python · PyTorch · Pandas · Dlib · OpenCV
-- ⚙️ **Systems:** C++ · OOP · Data Structures & Algorithms
-- 🚀 **Deployment:** Vercel · GitHub Pages
-- 💬 Ask me about **React, PHP, PyTorch, or C++ OOP**
-- 📫 Reach me at **muhammadtayyab3753@gmail.com**
+<br/>
 
 ---
 
-## 🌐 Featured Projects
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                       ABOUT ME                             -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🧑‍💻 &nbsp;About Me
+
+<table width="100%">
+<tr>
+<td valign="top" width="52%">
+
+```yaml
+name        : Muhammad Tayyab
+location    : Pakistan 🇵🇰
+role        : Full Stack Developer & AI Engineer
+education   : BS Computer Science (In Progress)
+
+currently   :
+  - Building full-stack web applications
+  - Researching deepfake detection (PyTorch)
+  - Sharpening C++ DSA & OOP skills
+
+interests   :
+  - Computer Vision & Neural Networks
+  - Scalable Web Architecture
+  - Open Source Contribution
+
+ask_me_about:
+  - React.js, PHP, MySQL
+  - PyTorch, Computer Vision
+  - C++ OOP & Data Structures
+```
+
+</td>
+<td valign="top" width="48%">
+
+<br/>
+
+🎯 &nbsp; **Goal:** Build AI-powered products that solve real-world problems
+
+🔬 &nbsp; **Research:** Detecting deepfakes using facial landmark analysis & CNNs
+
+🌱 &nbsp; **Learning:** Advanced neural architectures & system design patterns
+
+⚡ &nbsp; **Fun Fact:** I debug C++ at 2am — and somehow enjoy it
+
+💬 &nbsp; **Ask me about:** React · PHP · PyTorch · C++ OOP
+
+📫 &nbsp; **Email:** muhammadtayyab3753@gmail.com
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+<table width="100%">
+<tr>
+
+<td align="center" valign="top" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/STATUS-LIVE-36BCF7?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+<h3>💼 Landing Page</h3>
+<p>Modern, responsive landing page with smooth UI/UX animations and clean design.</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<br/><br/>
+<a href="https://landing-page-iota-tan-89.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%94%97_View_Live-0d1117?style=for-the-badge&labelColor=36BCF7&color=0d1117"/></a>
+<br/><br/>
+</td>
+
+<td align="center" valign="top" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/STATUS-LIVE-36BCF7?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+<h3>🏫 School Management System</h3>
+<p>Full-stack admin dashboard — student records, attendance tracking & reports.</p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<br/><br/>
+<a href="https://skool-management-software.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%94%97_View_Live-0d1117?style=for-the-badge&labelColor=36BCF7&color=0d1117"/></a>
+<br/><br/>
+</td>
+
+<td align="center" valign="top" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+<h3>🔍 Deepfake Detector</h3>
+<p>Neural network model using CNNs & facial landmarks to detect AI-generated faces.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dlib-FF8C00?style=flat-square&logo=python&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%A7_Coming_Soon-0d1117?style=for-the-badge&labelColor=FF6B6B&color=0d1117"/>
+<br/><br/>
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                      TECH STACK                            -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-| # | Project | Description | Tech | Live |
-|---|---------|-------------|------|------|
-| 01 | 💼 **Landing Page** | Modern, responsive landing page with smooth UI/UX animations | HTML · CSS · JS | [🔗 View Live](https://landing-page-iota-tan-89.vercel.app/) |
-| 02 | 🏫 **School Management System** | Full-stack admin dashboard — student records, attendance, reports | PHP · MySQL | [🔗 View Live](https://skool-management-software.vercel.app/) |
-| 03 | 🔍 **Deepfake Detector** *(In Progress)* | Neural network model for detecting AI-generated fake faces | Python · PyTorch · Dlib | 🚧 Coming Soon |
+**🌐 &nbsp; Frontend**
 
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### ⚙️ Backend & Database
+**⚙️ &nbsp; Backend & Database**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI / Machine Learning
+**🤖 &nbsp; AI / Machine Learning**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Dlib](https://img.shields.io/badge/Dlib-FF8C00?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔧 Systems & Tools
+**🔧 &nbsp; Systems & Tools**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+</div>
+
+<br/>
+
 ---
 
-## 📊 GitHub Stats
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                     GITHUB STATS                           -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tayyabp0g&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=a8b2d8" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tayyabp0g&show_icons=true&count_private=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=a8b2d8" width="415"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabp0g&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=a8b2d8" width="340"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabp0g&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=a8b2d8&langs_count=8" width="345"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabp0g&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=a8b2d8&dates=a8b2d8" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabp0g&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=a8b2d8&dates=a8b2d8&currStreakNum=ffffff&sideNums=ffffff" width="680"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabp0g&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B6B" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabp0g&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&area_color=36BCF7" width="100%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🏆 GitHub Trophies
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                      TROPHIES                              -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tayyabp0g&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tayyabp0g&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
 
+<br/>
+
 ---
 
-## 🤝 Let's Connect
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    CONNECT WITH ME                         -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🤝 &nbsp;Let's Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Tayyab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tayyab-12b816279)
-[![Gmail](https://img.shields.io/badge/Gmail-muhammadtayyab3753-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadtayyab3753@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tayyabp0g-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayyabp0g)
+<a href="https://www.linkedin.com/in/muhammad-tayyab-12b816279" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Tayyab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&ensp;
+<a href="mailto:muhammadtayyab3753@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&ensp;
+<a href="https://github.com/tayyabp0g" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-tayyabp0g-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 💡 *Open to collaborating on interesting projects, AI research, or open source work.*
+> *Feel free to reach out — let's build something legendary together!*
 
 </div>
 
+<br/>
+
 ---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                       FOOTER                               -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=a8b2d8&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:0d2137,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8C&fontSize=24&fontColor=ffffff&fontAlignY=60&desc=Drop%20a%20%E2%AD%90%20on%20a%20repo%20if%20you%20find%20it%20useful!&descSize=14&descColor=a8b2d8&descAlignY=80" width="100%"/>
 
-*"Code. Learn. Repeat. That's how legends are made."* 👨‍💻
+<br/>
+
+*"Code. Learn. Repeat. That's how legends are made."* &nbsp; 👨‍💻
+
+<br/>
+
+![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20lots%20of%20caffeine-36BCF7?style=flat-square&labelColor=0d1117)
 
 </div>
