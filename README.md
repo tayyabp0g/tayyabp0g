@@ -27,22 +27,22 @@
 <td valign="top" width="52%">
 
 ```yaml
-name        : Muhammad Tayyab
-location    : Pakistan 🇵🇰
-role        : Full Stack Developer & AI Engineer
-education   : BS Computer Science (In Progress)
+Name        : Muhammad Tayyab
+Location    : Pakistan 🇵🇰
+Role        : Full Stack Developer & AI Engineer
+Rducation   : BS Computer Science (In Progress)
 
-currently   :
+Currently   :
   - Building full-stack web applications
   - Researching deepfake detection (PyTorch)
   - Sharpening C++ DSA & OOP skills
 
-interests   :
+Interests   :
   - Computer Vision & Neural Networks
   - Scalable Web Architecture
   - Open Source Contribution
 
-ask_me_about:
+Ask_Me_About:
   - React.js, PHP, MySQL
   - PyTorch, Computer Vision
   - C++ OOP & Data Structures
