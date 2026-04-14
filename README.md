@@ -16,7 +16,7 @@
 
 ## ⚡ About Me
 
-```yaml
+
 Name      : Muhammad Tayyab
 Role      : Full Stack Developer & AI Engineer
 
@@ -49,4 +49,4 @@ Focus:
 
 ✨ <b>“Code. Build. Scale. Repeat.”</b> 🚀
 
-</div> ```
+</div> 
