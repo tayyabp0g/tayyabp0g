@@ -174,11 +174,7 @@ Ask_Me_About:
 
 <img src="https://github-readme-stats.vercel.app/api?username=tayyabp0g&show_icons=true&count_private=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=a8b2d8" width="415"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabp0g&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=a8b2d8&langs_count=8" width="345"/>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabp0g&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=a8b2d8&dates=a8b2d8&currStreakNum=ffffff&sideNums=ffffff" width="680"/>
 
 <br/><br/>
 
