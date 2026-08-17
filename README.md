@@ -124,12 +124,12 @@ Dashboard app with sidebar nav and full CRUD-style interactive tables.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tayyabp0g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabp0g&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tayyabp0g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=tayyabp0g&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabp0g&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabp0g&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ Dashboard app with sidebar nav and full CRUD-style interactive tables.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tayyabp0g&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tayyabp0g&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=10" />
 </p>
 
 <br>
