@@ -124,12 +124,7 @@ Dashboard app with sidebar nav and full CRUD-style interactive tables.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tayyabp0g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://streak-stats.demolab.com/?user=tayyabp0g&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabp0g&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -137,7 +132,9 @@ Dashboard app with sidebar nav and full CRUD-style interactive tables.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tayyabp0g&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=10" />
+  <img src="https://img.shields.io/github/followers/tayyabp0g?style=for-the-badge&color=2E9EF7&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/tayyabp0g&label=Public%20Repos&query=public_repos&color=2E9EF7&style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/github/stars/tayyabp0g?style=for-the-badge&color=2E9EF7&labelColor=0F172A&affiliations=OWNER" />
 </p>
 
 <br>
