@@ -138,7 +138,7 @@ Dashboard app with sidebar nav and full CRUD-style interactive tables.
   />
 
   <img
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftayyabp0g&query=%24.public_repos&label=Public%20Repos&color=2E9EF7&style=for-the-badge&labelColor=0F172A"
+    src="https://img.shields.io/badge/Public%20Repos-44-2E9EF7?style=for-the-badge&labelColor=0F172A"
     alt="Public Repositories"
   />
 
@@ -149,6 +149,17 @@ Dashboard app with sidebar nav and full CRUD-style interactive tables.
 </p>
 
 <br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabp0g&layout=compact&theme=tokyonight&hide_border=true"
+    width="55%"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
 
 ## 📫 Let's Connect
 
