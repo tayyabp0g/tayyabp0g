@@ -124,17 +124,28 @@ Dashboard app with sidebar nav and full CRUD-style interactive tables.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=tayyabp0g&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://ghstats.dev/api/card?username=tayyabp0g&theme=tokyonight"
+    width="60%"
+    alt="Tayyab GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabp0g&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
+  <img
+    src="https://img.shields.io/github/followers/tayyabp0g?style=for-the-badge&color=2E9EF7&labelColor=0F172A"
+    alt="GitHub Followers"
+  />
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/tayyabp0g?style=for-the-badge&color=2E9EF7&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/tayyabp0g&label=Public%20Repos&query=public_repos&color=2E9EF7&style=for-the-badge&labelColor=0F172A" />
-  <img src="https://img.shields.io/github/stars/tayyabp0g?style=for-the-badge&color=2E9EF7&labelColor=0F172A&affiliations=OWNER" />
+  <img
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftayyabp0g&query=%24.public_repos&label=Public%20Repos&color=2E9EF7&style=for-the-badge&labelColor=0F172A"
+    alt="Public Repositories"
+  />
+
+  <img
+    src="https://img.shields.io/github/stars/tayyabp0g?style=for-the-badge&color=2E9EF7&labelColor=0F172A&affiliations=OWNER"
+    alt="GitHub Stars"
+  />
 </p>
 
 <br>
