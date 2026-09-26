@@ -133,27 +133,8 @@ Dashboard app with sidebar nav and full CRUD-style interactive tables.
 
 <p align="center">
   <img
-    src="https://img.shields.io/github/followers/tayyabp0g?style=for-the-badge&color=2E9EF7&labelColor=0F172A"
-    alt="GitHub Followers"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Public%20Repos-44-2E9EF7?style=for-the-badge&labelColor=0F172A"
-    alt="Public Repositories"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/tayyabp0g?style=for-the-badge&color=2E9EF7&labelColor=0F172A&affiliations=OWNER"
-    alt="GitHub Stars"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabp0g&layout=compact&theme=tokyonight&hide_border=true"
-    width="55%"
+    src="https://ghstats.dev/api/langs?username=tayyabp0g&theme=tokyonight&layout=grid"
+    width="65%"
     alt="Top Languages"
   />
 </p>
